@@ -52,7 +52,7 @@ function Home() {
     <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> 
     <img src={tagline}></img>
     <br></br>  <br></br>
-    <a href="paytmmp://pay?pa=jhaj9104@okicici&am=100&cu=INR"> <Button variant='warning' style={{width:'20em',height:'4em',borderRadius:'10em',color:'darkblue'}}><b>Send Money</b></Button></a>
+    <a href="paytmmp://pay?pa=jhaj9104@okicici&pn=Jitendra Kumar&am=100&cu=INR"> <Button variant='warning' style={{width:'20em',height:'4em',borderRadius:'10em',color:'darkblue'}}><b>Send Money</b></Button></a>
 
    
     <br></br>
