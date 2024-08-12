@@ -37,7 +37,7 @@ function Home() {
             <Nav.Link href="#action2">Send Money</Nav.Link>
            
             <Nav.Link href="#action3" >
-             Become an Operator
+             Become an Operato
             </Nav.Link>
           </Nav>
           <Form className="d-flex">
